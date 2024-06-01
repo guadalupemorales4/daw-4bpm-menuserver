@@ -1,0 +1,117 @@
+/*Este es un comentario en CSS */
+/*Morales Martinez Guadalupe Concepcion    Grupo:4BPM*/
+/*DAW        Fecha:20/03/24  */  
+/*A continuacion le aplicamos CSS a la actividad 10 (Practica9.HTML). Desde un archivo CSS (Practica9.CSS)*/
+body{
+background-size:cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+h1{
+text-align:center;
+font-family:american bt;
+color:#F0FFFB;
+font-size:28px; 
+}
+
+
+img{ 
+width:300px;
+height:300px;
+display:block;
+margin:auto; 
+}
+
+
+P{ 
+text-align:left;
+color:#93E4CE;
+}
+
+
+
+.p0{
+text-align:center;
+color:#93E4CE;
+}
+
+video {
+width:200px;
+height:200px;
+float:left;
+}
+
+.i0 {
+width:200px;
+height:200px;
+float:right;
+}
+
+.i2 {
+width:200px;
+height:200px;
+display:block;
+margin:auto; 
+}
+
+.i1{
+width:200px;
+height:200px;
+float:left;
+}
+
+
+.v0 {
+width:200px;
+height:200px;
+float:right;
+}
+
+.t1{
+background-color:purple;
+color:pink;
+float:left;
+}
+.t2{
+background-color:purple;
+color:pink;
+float:right;
+}
+
+ol {
+text-align:left;
+color:pink;
+font-family:bakersignet bt;
+font-size:5;
+list-style-position: inside;
+}
+B{
+color:red;
+} 
+
+
+
+.o1{
+text-align:right;
+color:pink;
+font-family:bakersignet bt;
+font-size:5;
+list-style-position: inside;
+}
+ 
+.b1{
+color:red;
+} 
+
+.co{
+color:pink;
+}
+
+a{
+color:pink;
+}
+
+.aa{
+color:red;
+}

@@ -1,0 +1,99 @@
+/*Este es un comentario en CSS */
+/*Morales Martinez Guadalupe Concepcion    Grupo:4BPM*/
+/*DAW        Fecha:20/03/24  */  
+/*A continuacion le aplicamos CSS a la actividad 9 (Practica8.HTML). Desde un archivo CSS (Practica8.CSS)*/
+ body{
+background-size:cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+img{ 
+width:400px;
+height:400px;
+display: block;
+margin: auto;
+}
+
+h1{
+text-align:center;
+font-family:american bt; 
+color:Yellow;
+font-size:30px;
+}
+
+P{
+text-align:left;
+color:#1CBE32;
+}
+.i1{
+width:300px;
+height:300px;
+float:left;
+}
+
+.h{
+text-align:right;
+font-family:Didot;
+color:pink;
+}
+
+.p1{
+text-align:right;
+color:#1CBE32;
+}
+
+.i2 {
+width:300;
+height:300;
+float:right;
+}
+
+
+.hh{
+text-align:left;
+font-family:Didot;
+color:pink;
+}
+
+
+ol {
+text-align:right;
+color:pink;
+font-family:bakersignet bt;
+font-size:5;
+list-style-position: inside;
+}
+.co{
+color:pink;
+}
+
+B{
+color:red;
+} 
+
+.t1{
+background-color:purple;
+color:pink;
+float:right;
+}
+
+video{
+width:400px; 
+height:400px;
+display:block;
+margin:auto;
+}
+
+.i3{
+width:200px;
+height:200px;
+float:right;
+}
+
+a{
+color:pink;
+}
+
+.aa{
+color:red;
+}

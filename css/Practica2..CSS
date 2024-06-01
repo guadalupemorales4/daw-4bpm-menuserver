@@ -1,0 +1,38 @@
+/*Este es un comentario en CSS */
+
+/*Morales Martinez Guadalupe Concepcion    Grupo:4BPM*/
+
+/*DAW        Fecha:20/03/24  */  
+/*A continuacion le aplicamos CSS a la actividad 3 (Practica2.HTML). Desde un archivo CSS (Practica2.CSS)*/
+
+img{
+width:400px;
+height:400px;
+margin:auto;
+display:block;
+}
+h1{
+font-family:Didiot;
+color:purple;
+text-align:center;
+}
+h2{
+font-family:optima;
+color:pink;
+}
+p {
+text-align:left;
+}
+
+.i1{
+width:200px;
+height:200px;
+float:right;
+}
+a{
+color:pink;
+}
+
+.aa{
+color:red;
+}
