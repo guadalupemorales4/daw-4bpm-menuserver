@@ -1,0 +1,98 @@
+body {
+background-image: url(./Imagenes/bratz.gif);
+background-size: 100vw 100vh;
+background-attachment: fixed;
+color: white;
+font-size: 22;
+}
+
+h1{
+font-family: Chiller;
+color: white;
+font-size: 50px;
+margin-top: 0px;
+text-align:center;
+}
+
+p{
+color:#C783EC;
+font-family:courier;
+font-size:17;
+}
+
+.r1{
+margin-left:20px;
+color:#83BAEC;
+font-family:courier;
+font-size:15;
+}
+
+.r2{
+margin-left:20px;
+color:#E7EC83;
+font-family:courier;
+font-size:15;
+}
+.r3{
+margin-left:20px;
+color:#ECBA83;
+font-family:courier;
+font-size:15;
+}
+
+.r4{
+margin-left:20px;
+color:#83ECDC;
+font-family:courier;
+font-size:15;
+}
+
+
+.btn{
+margin:auto;
+display:block;
+color:pink;
+font-family:courier;
+font-size:15;
+font-weight: bold;
+background-color:#8483EC;
+width: 100px;
+padding-bottom: 10px;
+padding-left: 200px;
+padding-right: 280px;
+padding-top: 10px;
+box-shadow: 5px 5px 5px #D49FF4;
+}
+
+.container2{
+background-color:#050505;
+background-size: contain;
+background-size: cover;
+width: 80%;
+height: 70%;
+border: 1px solid #999999;
+display: block;
+margin: auto;
+font-size: 18px;
+font-family: spectral;
+}
+
+.container{
+background-color:pink;
+background-size: contain;
+background-size: cover;
+width: 80%;
+height: 70%;
+border: 1px solid #999999;
+display: block;
+margin: auto;
+font-size: 18px;
+font-family: spectral;
+}
+img{
+width:200px;
+height:200px;
+border-radius:10px;
+float:right;
+margin-right:150px;
+}
