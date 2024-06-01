@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(191, 191, 250);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+h1 {
+    color: #4CAF50;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+}

@@ -1,0 +1,112 @@
+body {
+font-family: "Mate SC", serif;
+font-weight: 400;
+font-style: normal;
+background-image: url(./Imagenes/fondos.jpg);
+background-size: contain;
+background-size: cover;
+background-repeat:repeat;
+}
+
+.sub{
+font-size: 30px;
+font-family: "Micro 5 Charted", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+
+h1{
+font-family: "Jacquard 24 Charted", system-ui;
+font-weight: 400;
+font-style: normal;
+color:brown;
+font-size: 50px;
+margin-top: 0px;
+text-align:center;
+}
+
+h2{
+text-align:center;
+
+font-size: 15px;
+color:#008080;
+}
+
+h3{
+text-align:right;
+
+
+font-size: 15px;
+color:brown;
+
+}
+
+h4{
+text-align:center;
+
+font-size: 15px;
+color:#008080;
+}
+h5{color:brown;
+
+
+}
+ul{color:brown;
+
+
+}
+
+h6{
+text-align:left;
+
+font-size: 15px;
+color:#008080;
+}
+
+
+
+
+.imagenes{
+background-image: url(./Imagenes/fondoi.webp);
+
+background-size: contain;
+background-size: cover;
+width: 27.30%;
+height: 1225px;
+border: 1px solid #999999;
+float:right;
+}
+.i1{
+width:200px;
+height:200px;
+border-radius:10px;
+margin:auto;
+display:block;
+}
+.i2{
+width:200px;
+height:200px;
+border-radius:10px;
+float:left;
+margin-right:10px;
+
+}
+
+
+
+.d1{
+
+background-color:#c0c0c0;
+}
+
+
+.footer {
+float: none;
+width: 72.4%;
+height: 165px;
+border: 1px solid #c0c0c0;
+background:#c0c0c0;
+display: inline-block
+
+}
